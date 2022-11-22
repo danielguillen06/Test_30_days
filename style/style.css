@@ -1,3 +1,7 @@
+.enlaces{
+    text-align: left;
+}
+
 .tituloFormulario {
     text-align: center;
 }
@@ -19,4 +23,10 @@ textarea{
 }
 *{
     text-align: center;
+}
+
+input[type="text"]
+{
+    height: 28px;
+    width: 780px;
 }
