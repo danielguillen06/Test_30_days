@@ -2,9 +2,20 @@
     text-align: center;
 }
 
-input[type="text"] {
-    height: 20px;
-    width: 500px;
+input[list="pregunta12"]
+{
+    height: 28px;
+    width: 780px;
+}
+input[list="pregunta19"]
+{
+    height: 28px;
+    width: 780px;
+}
+
+textarea{
+    height: 58px;
+    width: 600px;
 }
 *{
     text-align: center;
