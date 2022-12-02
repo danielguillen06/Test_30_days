@@ -1,0 +1,16 @@
+
+table,
+td,
+th {
+    border: 0.8px solid black;
+    width: 600px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+caption{
+    text-align: left;
+}
